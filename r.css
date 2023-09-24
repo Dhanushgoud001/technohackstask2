@@ -1,0 +1,15 @@
+h2 {
+    background-color: white;
+    padding: 10px;
+    border-width: 10px;
+}
+
+body {
+    background-image: url('reg.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    border-style: solid;
+    padding: 20px;
+    border-width: 10px;
+}
